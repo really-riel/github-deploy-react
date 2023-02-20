@@ -1,7 +1,7 @@
 {
   "name": "react-tut-01",
   "version": "0.1.0",
-  "homepage": "https://really-riel.github.io/react-deploy-gh",
+  "homepage": "https://really-riel.github.io/github-deploy-react",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
