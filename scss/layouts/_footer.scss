@@ -1,0 +1,8 @@
+footer {
+  width: calc(100% - 2px);
+  padding: 0.25em;
+  background-color: mediumblue;
+  color: whitesmoke;
+  display: grid;
+  place-content: center;
+}
